@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'kforris',
   linkedin: 'kris-wang-9b9b721b6',
   zhihu:'kris-wang-16',
-  youtube:'kforrisW',
+  youtube:'UCiu9RtYW4N2u8Hub9xk99Xw',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
