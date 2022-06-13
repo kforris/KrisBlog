@@ -20,8 +20,8 @@ export default siteConfig({
   twitter: 'kforris_w',
   github: 'kforris',
   linkedin: 'kris-wang-9b9b721b6',
-  zhihu:'kris-wang-16',
   youtube:'channel/UCiu9RtYW4N2u8Hub9xk99Xw',
+  zhihu:'kris-wang-16',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
