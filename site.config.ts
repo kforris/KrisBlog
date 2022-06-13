@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Kris Wang',
 
   // open graph metadata (optional)
-  description: 'Showcase/Portfolio site of kforris',
+  description: 'Showcase/Portfolio of kforris',
 
   // social usernames (optional)
   twitter: 'kforris_w',
