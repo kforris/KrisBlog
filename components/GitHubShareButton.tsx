@@ -8,8 +8,7 @@ export const GitHubShareButton: React.FC = () => {
       href='https://github.com/kforris'
       target='_blank'
       rel='noopener noreferrer'
-{/*     heres wrong */}
-      className={styles.gitsadCorner}
+      className={styles.githubCorner}
       aria-label='View source on GitHub'
     >
       <svg
