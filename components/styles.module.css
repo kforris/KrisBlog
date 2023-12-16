@@ -97,9 +97,9 @@
   color: #0066ff;
 }
 
-/* .github:hover {
+.github:hover {
   color: #c9510c;
-} */
+}
 
 .youtube:hover {
   color: #ff0000;
@@ -175,7 +175,7 @@
   background: #e5f2e8;
 }
 
-/* @media (max-width: 1360px) {
+@media (max-width: 1360px) {
   .githubCorner {
     display: none;
   }
@@ -183,7 +183,7 @@
 
 .githubCorner:hover .octoArm {
   animation: octocat-wave 560ms ease-in-out;
-} */
+}
 
 @keyframes octocat-wave {
   0%,
@@ -200,7 +200,7 @@
   }
 }
 
-/* @media (max-width: 500px) {
+@media (max-width: 500px) {
   .githubCorner:hover .octoArm {
     animation: none;
   }
@@ -209,7 +209,7 @@
     animation: octocat-wave 560ms ease-in-out;
   }
 }
- */
+
 .hidden {
   visibility: hidden;
 }
